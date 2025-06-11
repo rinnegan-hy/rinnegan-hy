@@ -14,4 +14,4 @@
 
 ### 😊 My Status
 
-[![rinnegan-hy的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=rinnegan-hy&cache_seconds=86400&show_icons=true&theme=radical)](https://github.com/rinnegan-hy&cache_seconds=86400)
+[![rinnegan-hy的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=rinnegan-hy&show_icons=true&theme=radical)](https://github.com/rinnegan-hy)
